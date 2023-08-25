@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-8*ss0h-xtcf%7j@iz2&p=d!3bl57n(p8jda2k3y!isw(4q0hz+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'django3dprinting.herokuapp.com']
 
 
 # Application definition
