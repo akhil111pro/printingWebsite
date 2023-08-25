@@ -1,1 +1,1 @@
-web: gunicorn django3dprinting.wsgi
+web: gunicorn printingWebsite.wsgi
