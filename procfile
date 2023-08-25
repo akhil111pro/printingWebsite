@@ -1,1 +1,1 @@
-web: gunicorn django3dprinting.wsgi --log-file -
+web: gunicorn django3dprinting.wsgi
